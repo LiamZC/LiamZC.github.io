@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="google-site-verification" content="ywawq3mZt9CiGua1qMIPSVPSLrziNJLKvdmDCkHXnCA" />
+</head>
+<title>Liam Z. Charles</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('media/bg/bgboard.jpeg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+</style>
+
+<div id="id01" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-top">
+      <header class="w3-container w3-theme-l1"> 
+        <span onclick="document.getElementById('id01').style.display='none'"
+        class="w3-button w3-display-topright">×</span>
+        <h4>Contact.</h4>
+      </header>
+      <div class="w3-padding">
+        <p>Email: <a class="w3-btn w3-light-grey" href="mailto:liamzcharles@gmail.com" target="_blank">LiamZCharles@gmail.com</a></p>
+        <p>Telegram: <a class="w3-btn w3-light-grey" href="https://t.me/LiamCharles/" target="_blank">@LiamCharles</a></p>
+      </div>
+      <footer class="w3-container w3-theme-l1">
+        <p>I do check my mail and Telegram every day, but please do not spam if a response is delayed!</p>
+      </footer>
+    </div>
+</div>
+
+<div id="id02" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-top">
+      <header class="w3-container w3-theme-l1"> 
+        <span onclick="document.getElementById('id02').style.display='none'"
+        class="w3-button w3-display-topright">×</span>
+        <h4>Social Media.</h4>
+      </header>
+      <div class="w3-padding">
+        <p>Instagram: <a class="w3-btn w3-light-grey" href="https://instagram.com/1iamC">@1iamC</a></p>
+	<p>Facebook: <a class="w3-btn w3-light-grey" href="https://www.facebook.com/LiamZCh">Liam Z. Charles</a></p>
+        <p>Twitter: <a class="w3-btn w3-light-grey" href="https://twitter.com/1iamC">@1iamC</a></p>
+      </div>
+      <footer class="w3-container w3-theme-l1">
+        <p> </p>
+      </footer>
+    </div>
+</div>
+
+<div id="id0TS" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-top">
+      <header class="w3-container w3-theme-l1"> 
+        <span onclick="document.getElementById('id0TS').style.display='none'"
+        class="w3-button w3-display-topright">×</span>
+        <h4> </h4>
+      </header>
+      <div class="w3-padding">
+	<p class="w3-center">Think Science 2019: February 22-24, 2019 | Khalifa University, Abu Dhabi</p>
+	<p class="w3-center w3-large"><a href="https://www.emiratesfoundation.ae/thinkscience/ts-fair-2019/visitor/">Click here for Visitor Tickets.</a></p>
+        <p class="w3-center w3-jumbo">Project details will be open at the start of this event.</p>
+      </div>
+      <footer class="w3-container w3-theme-l1">
+        <p> </p>
+      </footer>
+    </div>
+</div>
+
+<div id="id0MF" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-top">
+      <header class="w3-container w3-theme-l1"> 
+        <span onclick="document.getElementById('id0MF').style.display='none'"
+        class="w3-button w3-display-topright">×</span>
+        <h4> </h4>
+      </header>
+      <div class="w3-padding">
+	<p class="w3-center">Maker Faire 2019: February 26-28, 2019 | The World Trade Centre, Dubai</p>
+	<p class="w3-center w3-large"><a href="https://register-dmf.strategic-software.net/dmf19dxb/vis-register">Click here for Visitor Tickets.</a></p>
+        <p class="w3-center w3-jumbo">Project details will be open at the start of this event.</p>
+      </div>
+      <footer class="w3-container w3-theme-l1">
+        <p> </p>
+      </footer>
+    </div>
+</div>
+
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-center w3-padding-large w3-xlarge">
+    
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top w3-center"><strong>Liam Z. Charles</strong></h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    
+    <p class="w3-large w3-center"><button class="w3-btn w3-xlarge w3-center w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id01').style.display='block'" style="font-weight:1500;">Contact</button></p>
+    <p class="w3-large w3-center"><button class="w3-btn w3-xlarge w3-center w3-dark-grey w3-hover-light-grey" onclick="document.getElementById('id02').style.display='block'" style="font-weight:1500;">&nbspSocial&nbsp</button></p>
+	<br>    
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    
+  </div>
+</div>
+
+</body>
+</html>
